@@ -1,0 +1,32 @@
+_repo: The-English-Rogue-Continued-in-the-Life-of-Meriton-Latroon-and-Other-Extravagants-The-Fourth-__52822
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Head, Richard
+    aliases:
+    - Hamilton, William
+    - Swiftnicks, Samuel
+    - Careless, Franck
+    gutenberg_agent_id: '46159'
+    url: http://www.gutenberg.org/2009/agents/46159
+  - agent_name: Kirkman, Francis
+    alias: Kirkman, F. (Francis)
+    birthdate: 1632
+    gutenberg_agent_id: '45887'
+    url: http://www.gutenberg.org/2009/agents/45887
+description: ''
+gutenberg_issued: '2016-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rogues and vagabonds -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The English Rogue: Continued in the Life of Meriton Latroon, and Other Extravagants:
+  The Fourth Part'
+url: http://www.gutenberg.org/ebooks/52822
